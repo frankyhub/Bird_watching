@@ -1,11 +1,11 @@
 <a name="oben"></a>
 
-# Bird_watching
-ESP32 CAM , WEB-Server
+# Bird watching
+ESP32 CAM, IR-LEDs umd WEB-Server
 
 Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
-Testbild:
+Der WEB-Sever:
 
 ![Bild](pic/Bird%20watching2.png)
 
@@ -13,8 +13,8 @@ Testbild:
 
 ## Story
 
-Mit der WEB-CAM des ESP32 und dem WEB-Server kann man in einem Vogelhaus die Jungvögel beobachten. Die IR-LEDs lassen sich über den WEB-Server ein/aus schalten.
-Der WEB-Server hat eine feste IP-Adresse: 192.160.0.177. Die Antenne wurde mit 20cm Blankdraht verlängert. Mit dem Serielllen Monitor werden die WiFi-Verbindung und die Schaltvorgänge dargestellt.
+Mit der WEB-CAM des ESP32 und dem WEB-Server kann man in einem Vogelhaus das Schlüpfen derJungvögel beobachten. Die IR-LEDs lassen sich über den WEB-Server ein/aus schalten.
+Der WEB-Server hat eine feste IP-Adresse: 192.160.0.177. Die Antenne wurde mit 20cm Blankdraht verlängert und mit dem Serielllen Monitor werden die WiFi-Verbindung und die Schaltvorgänge dargestellt.
 
 
 ![Bild](pic/serieller_monitor1.png)
