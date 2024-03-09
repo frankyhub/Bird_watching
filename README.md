@@ -7,7 +7,7 @@ Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
 Testbild:
 
-![Bild](pic/Bird%20watching2.jpg)
+![Bild](pic/Bird%20watching2.png)
 
 ---
 
