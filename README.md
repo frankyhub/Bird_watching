@@ -5,7 +5,7 @@ ESP32 CAM, IR-LEDs umd WEB-Server
 
 Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
-Der WEB-Sever:
+Der WEB-Server:
 
 ![Bild](pic/Bird%20watching2.png)
 
