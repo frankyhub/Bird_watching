@@ -7,7 +7,7 @@ Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
 Testbild:
 
-![Bild](pic/Bird%20watching1.png)
+![Bild](pic/Bird%20watching2.jpg)
 
 ---
 
@@ -30,8 +30,9 @@ Der WEB-Server hat eine feste IP-Adresse: 192.160.0.177. Die Antenne wurde mit 2
 | 2        | IR-LEDs     | 
 | 1        | 20cm Blankdraht  | 
 | 1        | Schaltdraht      |
-| 1        | Vogelhaus |
 | 1        | 5V Netzteil |
+| 1        | Vogelhaus |
+
 
 
 ---
