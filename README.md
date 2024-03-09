@@ -25,13 +25,13 @@ Der WEB-Server hat eine feste IP-Adresse: 192.160.0.177. Die Antenne wurde mit 2
 ## BOM
 
 | Stück | Bezeichnung |
-| -------- | -------- | 
+| ----- | ----------- | 
 | 1        | ESP32 CAM      | 
 | 2        | IR-LEDs     | 
-| 1        | 18650 Akku       | 
 | 1        | 20cm Blankdraht  | 
 | 1        | Schaltdraht      |
 | 1        | Vogelhaus |
+| 1        | 5V Netzteil |
 
 
 ---
