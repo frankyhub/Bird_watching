@@ -31,8 +31,9 @@ Der WEB-Server hat eine feste IP-Adresse: 192.160.0.177. Die Antenne wurde mit 2
 | 1        | 20cm Blankdraht  | 
 | 1        | Schaltdraht      |
 | 1        | 5V Netzteil |
-| 1        | Vogelhaus |
-
+| 1        | Vogelhaus: |
+| 2        | Sperrholz 4mm 300x600 |
+| ----- | ----------- | 
 
 
 ---
