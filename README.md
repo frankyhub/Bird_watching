@@ -14,7 +14,7 @@ Der WEB-Server:
 ## Story
 
 Mit der WEB-CAM des ESP32 und dem WEB-Server kann man in einem Vogelhaus das Schlüpfen der Jungvögel beobachten. Die 4 IR-LEDs lassen sich über den WEB-Server ein/aus schalten.
-Der WEB-Server hat eine feste IP-Adresse: 192.160.0.177. Die Antenne des ESP32-CAM wurde mit 20cm Blankdraht verlängert und mit dem Serielllen Monitor werden die WiFi-Verbindung und die Schaltvorgänge dargestellt.
+Der WEB-Server hat eine feste IP-Adresse: 192.160.0.177. Die Antenne des ESP32-CAM wurde mit 20cm Blankdraht verlängert und mit dem Serielllen Monitor ist die WiFi-Verbindung und die Schaltvorgänge dargestellt.
 
 
 ![Bild](pic/serieller_monitor1.png)
