@@ -1,7 +1,6 @@
 <a name="oben"></a>
 
-# Bird watching 
-###Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
+# Bird watching ### Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
 ## Story
 Die Blaumeise und die Kohlmeise gehören zu den am häufigsten Meisenarten in Deutschland. Sie gehen nicht nur gerne an Futterhäuschen, sondern suchen auch Nistkästen auf, in denen sie Schutz suchen und ihre Familie gründen können. Für jede Vogelart gibt es eine ideale Größe des Einfluglochs. Bei den kleinsten Meisen sind das 28 Millimeter Durchmesser, bei den größeren Kohlmeisen 32 und beim Star 45mm Lochgröße. Die Lightburnvorlage ist für Kohlmeisen ausgelegt.
