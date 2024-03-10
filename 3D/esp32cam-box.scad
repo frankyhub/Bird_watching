@@ -149,13 +149,7 @@ module alles(){
 }
 
 
-//======================= set all the pieces up for printing ==============================
-//bottom();
-
-//translate([0,-5,toph]) rotate([180,0,0])  top(); 
-
-// flip top over and move it for printing
-// translate([-boxwall,-(pcbx+boxwall)/2,0]) rotate([0,0,90]) bracket();
+//-----------------------------------------------------------------
 
 module print(){
 	if (auswahl == "1") {
@@ -173,3 +167,4 @@ module print(){
 }
 
 print();
+//-----------------------------------------------------------------
