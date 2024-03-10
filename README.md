@@ -29,6 +29,7 @@ Der WEB-Server hat eine feste IP-Adresse: 192.160.0.177. Die Antenne wurde mit 2
 | 1        | ESP32 CAM      | 
 | 1        | ESP32 CAM Shield    | 
 | 4        | IR-LEDs 850 nm DC 1,5V 20mA   | 
+| 4        | 180R 1/4W  | 
 | 1        | 20cm Blankdraht  | 
 | 1        | Schaltdraht      |
 | 1        | 5V Netzteil |
