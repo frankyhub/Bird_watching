@@ -44,6 +44,8 @@ Die Kohlmeise ist ein kleiner Singvogel. Sie hat einen schwarzen Kopf, weiße Wa
 
 ---
 
+![Bild](pic/birdhouse1.png)
+
 
 ---
 <div style="position:absolute; left:2cm; ">   
