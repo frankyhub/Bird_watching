@@ -34,7 +34,7 @@
 
 
 // ***** Trage hier deine WLAN Daten ein *********************************
-const char* ssid = "xxx";
+const char* ssid = "ESP32";
 const char* password = "xxx";
 //************************************************************************
 
@@ -72,7 +72,10 @@ IPAddress secondaryDNS(8, 8, 4, 4); //optional
 
 
 //******* IR-LED *********************************************************
-#define LED_BUILTIN 4
+int LED_1 = 12;
+int LED_2 = 13;
+int LED_3 = 14;
+int LED_4 = 15;
 //************************************************************************
 
 static const char* _STREAM_CONTENT_TYPE = "multipart/x-mixed-replace;boundary=" PART_BOUNDARY;
@@ -242,12 +245,18 @@ static esp_err_t cmd_handler(httpd_req_t *req){
 
   if(!strcmp(variable, "LED_ein")) {
     Serial.println("IR-LED EIN");
-    digitalWrite(LED_BUILTIN, 1);
+    digitalWrite(LED_1, 1);
+        digitalWrite(LED_2, 1);
+            digitalWrite(LED_3, 1);
+                digitalWrite(LED_4, 1);
   }
 
   else if(!strcmp(variable, "LED_aus")) {
     Serial.println("IR-LED AUS");
-    digitalWrite(LED_BUILTIN, 0);
+    digitalWrite(LED_1, 0);
+        digitalWrite(LED_2, 0);
+            digitalWrite(LED_3, 0);
+                digitalWrite(LED_4, 0);
   }
   
   else {
@@ -302,7 +311,10 @@ void startCameraServer(){
 //**************** setup ***********************************************
 void setup() {
 
-  pinMode (LED_BUILTIN, OUTPUT);
+  pinMode (LED_1, OUTPUT);
+  pinMode (LED_2, OUTPUT);
+  pinMode (LED_3, OUTPUT);
+  pinMode (LED_4, OUTPUT);
 
   Serial.begin(115200);
   Serial.setDebugOutput(false);
