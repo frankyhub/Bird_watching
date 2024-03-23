@@ -30,7 +30,7 @@ Die Kohlmeise ist ein kleiner Singvogel. Sie hat einen schwarzen Kopf, weiße Wa
 | 1        | ESP32 CAM      | 
 | 1        | ESP32 CAM Shield    | 
 | 4        | IR-LEDs 850 nm DC 1,5V 20mA   | 
-| 4        | 100R 1/4W  | 
+| 4        | 75R 1/4W  | 
 | 1        | 20cm Blankdraht  | 
 | 1        | Schaltdraht      |
 | 1        | 5V Netzteil |
