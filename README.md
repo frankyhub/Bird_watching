@@ -55,7 +55,7 @@ Die Kohlmeise ist ein kleiner Singvogel. Sie hat einen schwarzen Kopf, weiße Wa
 
 ### Verdrahtung des ESP32-CAM und der IR-LEDs
 
-![Bild](pic/![Bild](pic/Dach1.png).png)
+![Bild](pic/Verdrahtung.png)
 
 ![Bild](pic/Dach1.png)
 
