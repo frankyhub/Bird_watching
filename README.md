@@ -1,5 +1,17 @@
 <a name="oben"></a>
 
+<div align="center">
+
+|[:skull:ISSUE](https://github.com/frankyhub/Bird_watching/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Bird_watching/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Bird_watching/wiki)||
+|--|--|--|--|
+| | | | |
+|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2023-blue)|<a href="https://github.com/frankyhub/Bird_watching/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Bird_watching)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Bird_watching)|<a href="https://github.com/frankyhub/Bird_watching/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Bird_watching)|<a href="https://github.com/frankyhub/Bird_watching/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Bird_watching)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Bird_watching)| <a href="https://github.com/frankyhub/Bird_watching/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Bird_watching/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+</div>
+
+
+
+
 # Bird watching 
 ### Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
@@ -61,6 +73,7 @@ Die Kohlmeise ist ein kleiner Singvogel. Sie hat einen schwarzen Kopf, weiße Wa
 
 
 ---
+
 <div style="position:absolute; left:2cm; ">   
 <ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
 </div>
