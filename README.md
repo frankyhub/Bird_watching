@@ -5,8 +5,9 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Bird_watching/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Bird_watching/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Bird_watching/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2023-blue)|<a href="https://github.com/frankyhub/Bird_watching/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Bird_watching)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Bird_watching)|<a href="https://github.com/frankyhub/Bird_watching/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Bird_watching)|<a href="https://github.com/frankyhub/Bird_watching/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Bird_watching)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Bird_watching)| <a href="https://github.com/frankyhub/Bird_watching/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Bird_watching/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Bird_watching/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Bird_watching)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Bird_watching)|<a href="https://github.com/frankyhub/Bird_watching/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Bird_watching)|<a href="https://github.com/frankyhub/Bird_watching/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Bird_watching)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2023-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Bird_watching)| <a href="https://github.com/frankyhub/Bird_watching/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Bird_watching/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
 
 
@@ -24,13 +25,16 @@ Die Kohlmeise ist ein kleiner Singvogel. Sie hat einen schwarzen Kopf, weiße Wa
 
 ### Der WEB-Server:
 
-![Bild](pic/Bird%20watching2.png)
+<img src="pic/Bird%20watching2.png" width="500"> 
+<br> <br>
 
 ---
 
 ### Serieller Monitor:
 
-![Bild](pic/serieller_monitor1.png)
+<img src="pic/serieller_monitor1.png" width="500"> 
+<br> <br>
+
 
 ---
 
@@ -59,17 +63,21 @@ Die Kohlmeise ist ein kleiner Singvogel. Sie hat einen schwarzen Kopf, weiße Wa
 
 ### Birdhouse aus dem Lasercutter:
 
-![Bild](pic/birdhouse1.png)
+<img src="pic/birdhouse1.png" width="500"> 
+<br> <br>
 
 ### CAM-Bild
 
-![Bild](pic/Bird%20watching4.png)
+<img src="pic/Bird%20watching4.png" width="500"> 
+<br> <br>
 
 ### Verdrahtung des ESP32-CAM und der IR-LEDs
 
-![Bild](pic/Verdrahtung.png)
+<img src="pic/Verdrahtung.png" width="500"> 
+<br> <br>
 
-![Bild](pic/Dach1.png)
+<img src="pic/Dach1.png" width="500"> 
+<br> <br>
 
 
 ---
